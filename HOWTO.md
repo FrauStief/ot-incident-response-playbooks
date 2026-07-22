@@ -51,6 +51,7 @@ industrial-cyber-blueprints
 ├── ot-incident-response-plan-v3.md
 ├── ot-incident-response-runbook.md
 ├── ot-management-summary.md
+├── .....
 │
 ├── HOWTO.md
 │
@@ -66,10 +67,6 @@ industrial-cyber-blueprints
 ## 1. OT-Incident-Response-Plan (OT-IRP)
 
 **Datei**
-
-```text
-ot-incident-response-plan-v3.md
-```
 
 Umfassendes OT-Handbuch zur Reaktion auf Vorfälle, einschließlich:
 
@@ -100,10 +97,6 @@ Zielgruppe:
 
 **Datei**
 
-```text
-ot-incident-response-runbook.md
-```
-
 Checkliste für Betriebsvorfälle, die für den Einsatz während aktiver Vorfälle konzipiert ist.
 
 Enthält:
@@ -127,10 +120,6 @@ Zielgruppe:
 ## 3. Zusammenfassung für die Geschäftsleitung
 
 **Datei**
-
-```text
-ot-management-summary.md
-```
 
 Überblick auf Führungsebene über das OT-Rahmenwerk zur Reaktion auf Vorfälle.
 
